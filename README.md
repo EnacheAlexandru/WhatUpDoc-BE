@@ -1,7 +1,5 @@
 # What's Up, Doc?
 
-Swagger -> http://localhost:8080/swagger
-
 A mobile client-server app that lets patients make appointments at medical clinics and message medics.
 
 <p align="center">
