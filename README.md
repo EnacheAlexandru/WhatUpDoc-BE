@@ -4,6 +4,8 @@
 
 # What's Up, Doc?
 
+**Only the backend is available!**
+
 A mobile client-server app that lets patients make appointments at medical clinics and message medics.
 
 - Technologies for the server in **Java**: Spring MVC, Spring Data JPA, REST API, MySQL
